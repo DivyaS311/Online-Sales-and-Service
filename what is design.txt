@@ -1,0 +1,10 @@
+DNS
+Options:-
+       1. Home
+	   2. Our Product
+	   3. About Us
+	   4. FAQ
+	   5. Order Now
+	   
+	
+Data base name:-dns
